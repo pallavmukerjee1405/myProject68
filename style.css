@@ -5,3 +5,15 @@ body{
 marquee{
     background-color: blue;
 }
+
+#video{
+    width:100%;
+    height:650px;
+    border:none;
+}
+
+#map{
+    width: 50%;
+    padding: top;
+    float:left;
+}
