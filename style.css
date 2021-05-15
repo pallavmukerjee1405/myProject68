@@ -59,3 +59,8 @@ marquee{
 .page header span{
    color:yellow;
 }
+
+#footer{
+    height:20px;
+    background-color:white;
+}
